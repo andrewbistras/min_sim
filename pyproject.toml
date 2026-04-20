@@ -1,0 +1,8 @@
+[project]
+name = "min_sim"
+version = "0.1.0"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+]
