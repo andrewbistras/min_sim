@@ -1,0 +1,77 @@
+{
+ "admissibleSets": 2682432,
+ "orderedDecks": 321891840,
+ "bitsMax": 28.26200076387116,
+ "runtimeMs": {
+  "0": 30.794422925,
+  "100": 14.691656249999994,
+  "1000": 9.96437289999999
+ },
+ "jsd": {
+  "participants": 200,
+  "pearson": 0.9995487777102084,
+  "slopeScorePerJsd": 32232.206241890293,
+  "predictedSlope": 31563.28125,
+  "points": "600 points"
+ },
+ "coOccurrence": [
+  {
+   "distance": 0,
+   "pTogether": 0.078125
+  },
+  {
+   "distance": 1,
+   "pTogether": 0
+  },
+  {
+   "distance": 2,
+   "pTogether": 0.0059930689762126305
+  },
+  {
+   "distance": 3,
+   "pTogether": 0.005251204876768544
+  },
+  {
+   "distance": 4,
+   "pTogether": 0.005347386252475366
+  },
+  {
+   "distance": 5,
+   "pTogether": 0.005338439147758452
+  },
+  {
+   "distance": 6,
+   "pTogether": 0.005338439147758452
+  }
+ ],
+ "eigenvalues": [
+  {
+   "weight": 0,
+   "value": -1.0408340855860843e-17
+  },
+  {
+   "weight": 1,
+   "value": 0.054661217879894065
+  },
+  {
+   "weight": 2,
+   "value": 0.06179504270751319
+  },
+  {
+   "weight": 3,
+   "value": 0.07084951268102976
+  },
+  {
+   "weight": 4,
+   "value": 0.08245092513062771
+  },
+  {
+   "weight": 5,
+   "value": 0.09736873106196167
+  },
+  {
+   "weight": 6,
+   "value": 0.11651553515615681
+  }
+ ]
+}

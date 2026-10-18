@@ -1,0 +1,4 @@
+k1 batch 1: sd 0.926
+k1 batch 4: sd 0.984
+k1 batch 16: sd 1.235
+k1 batch 64: sd 2.101

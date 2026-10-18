@@ -1,0 +1,4 @@
+dm batch 1: sd 0.396
+dm batch 4: sd 0.755
+dm batch 16: sd 3.842
+dm batch 64: sd 17.711

@@ -9,3 +9,11 @@ venv/
 
 # Node
 node_modules/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.blg
+paper/*.bbl
+paper/*.out
+paper/*.synctex.gz
