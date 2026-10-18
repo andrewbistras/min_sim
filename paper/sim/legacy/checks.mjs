@@ -1,7 +1,7 @@
 // (a) replica vs the repo's own modules, (b) JSD identities, (c) what PHI actually does, (d) KL accounting.
 import * as L from './lib.mjs';
-import minOld from '../../../min_old.js';
-import minNew from '../../../min_new.js';
+import minOld from '../../../archive/min_old.js';
+import minNew from '../../../archive/min_new.js';
 
 const ids = Array.from({ length: L.NV }, (_, v) => v.toString(2).padStart(6, '0'));
 const idx = Object.fromEntries(ids.map((s, v) => [s, v]));
